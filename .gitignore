@@ -1,0 +1,6 @@
+lib
+System*
+.fseventsd
+.meta*
+.Trashes
+boot_out.txt
